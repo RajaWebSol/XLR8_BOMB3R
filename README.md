@@ -9,7 +9,7 @@ I will not be responsible for any misuse⚠️
 ## Usage
 Clone it by
 ```bash
-git clone https://github.com/anubhavanonymous/XLR8_BOMB3R
+git clone https://github.com/LiquidAce/XLR8_BOMB3R.git
 ```
 Go to the Xlr8 Directory
 ```bash
